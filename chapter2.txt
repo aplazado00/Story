@@ -1,0 +1,2 @@
+Un commit es, básicamente, una fotografía de la carpeta de nuestro proyecto en un momento determinado.
+Cuando hacemos un commit, estamos congelando el estado de todos los ficheros y subdirectorios, y guardando la instantánea en un histórico. 
